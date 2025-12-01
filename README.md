@@ -18,9 +18,6 @@ This project replicates UI/UX patterns from Razorpay, including sliders, tab sys
 
 ---
 
-## 📁 Project Structure
-
-
 ---
 
 ## ✨ Features
